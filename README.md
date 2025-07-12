@@ -131,12 +131,4 @@ MONGO_URI=mongodb://mongo:27017/footfall_db
 ## 👤 Author
 
 **Ananthu Mohan**
-GitHub: [AnanthuSpace](https://github.com/AnanthuSpace)
-LinkedIn: [Ananthu Mohan](https://www.linkedin.com/in/ananthu-mohan-b3b1021a1/)
 
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
