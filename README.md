@@ -60,7 +60,7 @@ docker-compose up
 > * MongoDB: Accessible internally on `mongo:27017`
 
 
-## 📆 Backend API (Express + MongoDB)
+## Backend API (Express + MongoDB)
 
 ### Base URL: `http://localhost:5000`
 
@@ -76,7 +76,7 @@ docker-compose up
 * Mongoose for MongoDB
 * CORS, dotenv, morgan (middleware)
 
-## 💻 Frontend (React + Vite + Tailwind)
+## Frontend (React + Vite + Tailwind)
 
 ### Technologies
 
@@ -90,8 +90,6 @@ docker-compose up
 
 * Dashboard with footfall charts
 * Device listing with metadata
-
----
 
 ## 🛠️ Manual Development Setup
 
@@ -119,7 +117,7 @@ Runs at: [http://localhost:5173](http://localhost:5173)
 
 > Ensure MongoDB is installed and running locally
 
-## 📃 Environment Variables
+## Environment Variables
 
 ### `.env` (Backend)
 
@@ -128,7 +126,7 @@ PORT=5000
 MONGO_URI=mongodb://mongo:27017/footfall_db
 ```
 
-## 👤 Author
+## Author
 
 **Ananthu Mohan**
 
